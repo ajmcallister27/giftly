@@ -1,0 +1,2 @@
+# Giftly
+an app that helps users with gift giving. users create wantlists and can view others wantlists. They can also add ideas to others, but those others won't see the ideas from others. This allows people to see ideas for each person, but still make it a surprise for that person. I also want links to buy, be able to sort it by price/location, and make it easy to use. I want to use vanilla javascript (no react), and use the most lightweight data storage as possible.
